@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ericbuess/chatgpt-api#readme",
   "dependencies": {
     "chatgpt": "^3.3.3",
+    "dotenv": "^16.0.3",
     "puppeteer": "^19.4.1",
     "request": "^2.88.2"
   }
